@@ -6,8 +6,6 @@ def tf(term, doc):
     return count / len(doc)
 
 
-
-
 docs = [["リンゴ", "リンゴ"], ["リンゴ", "レモン"], ["レモン", "ミカン"]]
 terms = ["リンゴ", "レモン", "ミカン"]
 
