@@ -18,8 +18,10 @@ while True:
     else:
         break
 
-print(docs)
-print(terms(docs))
+terms = terms(docs)
+
+# print(docs)
+# print(terms(docs))
 
 
     
