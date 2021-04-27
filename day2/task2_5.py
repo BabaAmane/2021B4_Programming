@@ -1,6 +1,6 @@
 import numpy as np
 import task2_2
-##うまくいかない
+
 
 def softmax(x):
         c = np.max(x)
